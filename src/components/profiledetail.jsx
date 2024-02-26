@@ -13,7 +13,7 @@ function Profile() {
             </div>
 
 
-            <div className="border-t border-gray-200"></div>
+            <div className="border-t border-gray-200 "></div>
 
 
             <div className='flex m-3 gap-2'>
